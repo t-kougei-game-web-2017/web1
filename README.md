@@ -7,7 +7,7 @@
 * [ryoukawa](https://ryoukawa.github.io/web1)
 * [atsushi461](https://atsushi461.github.io/web1)
 * [tama9884649](https://tama9884649.github.io/web1)
-* [kichy187](https://kichy187.github.io/Web1)
+* [kichy187](https://kichy187.github.io/web1)
 * [AirpChinpam](https://AirpChinpam.github.io/web-1)
 * [inner-muscle](https://inner-muscle.github.io/web1)
 * [KakutouEbifly](https://KakutouEbifly.github.io/web1)
